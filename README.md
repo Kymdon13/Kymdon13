@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Kymdon13
-- 👀 I’m interested in speaker recognition and speech recognition.
-- 🌱 I’m currently learning machine learning and ASR.
-- 💞️ I’m looking to collaborate on, I don't know.
